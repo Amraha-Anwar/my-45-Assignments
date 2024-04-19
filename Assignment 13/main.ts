@@ -3,5 +3,6 @@
   own a Honda motorcycle.” */
 
   let transportation : string[] = ["HONDA" , "AUDI" , "MERCEDES" , "BMW"];
-  for (let i=0; i<transportation.length; i++){console.log('I would like to own a', transportation[i])};
+  for (let i=0; i<transportation.length; i++)
+  {console.log('I would like to own a', transportation[i])};
   
